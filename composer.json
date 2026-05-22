@@ -1,0 +1,10 @@
+{
+    "name": "haybtech/drupal-commerce",
+    "description": "HayBTech Payment Gateway for Drupal Commerce",
+    "type": "drupal-module",
+    "license": "MIT",
+    "require": {
+        "drupal/commerce": "^2.0 || ^8.x-2.0",
+        "haybtech/php-sdk": "^1.0"
+    }
+}
