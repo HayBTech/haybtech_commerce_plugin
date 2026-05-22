@@ -4,7 +4,7 @@
     "type": "drupal-module",
     "license": "MIT",
     "require": {
-        "drupal/commerce": "^2.0 || ^8.x-2.0",
+        "drupal/commerce": "^2.0",
         "haybtech/php-sdk": "^1.0"
     }
 }
